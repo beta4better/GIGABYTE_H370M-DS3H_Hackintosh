@@ -51,6 +51,14 @@
 |XHC	|SS06		|0x14B00000		|0x16		|USB3		|后置面板网口旁USB-A口（远）|
 
 
+## Sonoma 下启用 Wi-Fi
+参考下面几篇文章，目前还没有成功：
+* https://elitemacx86.com/threads/how-to-fix-broadcom-wifi-on-macos-sonoma-and-later.1415/
+* https://github.com/billabongbruno/macOS-Sonoma-Broadcom-Wifi
+* https://www.cnblogs.com/wkvip/p/17787077.html
+
+第三篇算是对第一篇的中文翻译。不知道是不是插件加多了，两台黑苹果都是重启后黑屏，无法进入系统。
+
 ## 已知问题
 * 不确定核显是否有正常驱动起来
 * USB 端口状态未确认
